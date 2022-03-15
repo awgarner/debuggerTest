@@ -1,3 +1,5 @@
+debugger;
+
 /* GAME FUNCTIONS */
 
 // function to generate a random numeric value
